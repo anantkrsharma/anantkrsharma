@@ -1,9 +1,6 @@
 <h1 align='center'>About Me</h1>
 
-<h4 align='center'> • I’m a Software Engineer.</h4>
-<h4 align='center'> • Currently working on MERN-Stack, Next.js with TypeScript.</h4>
-<h4 align='center'> • Learning blockchain, Web3, and Rust.</h4>
-<h4 align='center'> • Looking forward to collaborate on real world roles and projects.</h4>
+<h4 align='center'> Software Engineer with strong full-stack expertise in JavaScript, TypeScript and Java, and experience using frameworks such as React, Next.js, Node.js, NestJS and Hono.js. Skilled at working with both SQL and NoSQL databases, including PostgreSQL, MongoDB, Redis and Neo4j, and utilising Prisma ORM for effective data modelling. I build and deploy secure, high-scale applications with modern authentication and deliver intuitive front-ends using current UI frameworks. My work has concentrated on developing resilient systems capable of handling large-scale data workflows and enhancing system architecture for performance and operational efficiency. </h4>
 
 <br>
 <h1 align='center'> Languages and Technologies </h1>
