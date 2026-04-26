@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-FFA500?logo=python&logoColor=blue&style=for-the-badge" alt="Python" />
   <br>
   <img src="https://img.shields.io/badge/-Java-FFA522?logo=java&logoColor=brown&style=for-the-badge" alt="Java"/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/-CloudFlare-FFFFFF?logo=cloudflare&logoColor=orange&style=for-the-badge" alt="CloudFlare" />
   <img src="https://img.shields.io/badge/-Hono-FF8C00?logo=hono&logoColor=white&style=for-the-badge" alt="Hono" />
   <br>
-  
   <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
   <img src="https://img.shields.io/badge/-Nestjs-FFFFFF?logo=nestjs&logoColor=red&style=for-the-badge" alt="Nestjs" />
   <img src="https://img.shields.io/badge/-passport.js-3B3B3B?logo=passport&logoColor=green&style=for-the-badge" alt="Passportjs" />
@@ -38,13 +37,16 @@
   <img src="https://img.shields.io/badge/-inngest-800080?logo=inngest&logoColor=white&style=for-the-badge" alt="inngest" />
   <img src="https://img.shields.io/badge/-shadcnui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" alt="shadcnui" />
   <br>
-  
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
   <img src="https://img.shields.io/badge/NextAuth.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="NextAuth" />
   <img src="https://img.shields.io/badge/-Material--UI-FFFFFF?logo=mui&logoColor=blue&style=for-the-badge" alt="Material-UI" />
   <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
+  <br>
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
   <img src="https://img.shields.io/badge/Turborepo-6E00FF?logo=turborepo&logoColor=white&style=for-the-badge" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/-Flask-0C71E0?logo=flask&logoColor=white&style=for-the-badge" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-FFFFFF?logo=fastapi&logoColor=green&style=for-the-badge" alt="FastAPI" />
 
 </p>
 <br>
