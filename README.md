@@ -69,13 +69,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anantkrsharma&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
-
-<br>
-
-<h1 align='center'>Top Contributed Repos</h1>
-
-<div align='center'>
-  
-![](https://github-contributor-stats.vercel.app/api?username=anantkrsharma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
