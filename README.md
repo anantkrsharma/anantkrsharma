@@ -1,0 +1,84 @@
+<h1 align='center'>About Me</h1>
+
+<h4> Software Engineer proficient in TypeScript (Node.js, Next.js, NestJS) and Python (FastAPI, Flask), with a track record of developing complex, end-to-end systems and modular architectures. Experienced in building high-concurrency applications and managing sophisticated data workflows, including the development of automated systems capable of processing TB-scale datasets. Skilled in delivering modern, secure front-ends using React and Next.js, while maintaining robust data layers across PostgreSQL, MongoDB, and Redis. Dedicated to engineering resilient, high-scale software through clean code principles and optimized system performance. </h4>
+
+<br>
+<h1 align='center'> Languages and Technologies </h1>
+<p align='center'>
+  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-FFA500?logo=python&logoColor=blue&style=for-the-badge" alt="Python" />
+  <br>
+  <img src="https://img.shields.io/badge/-Java-FFA522?logo=java&logoColor=brown&style=for-the-badge" alt="Java"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Express.js-ffffff?logo=express&logoColor=black&style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
+  <br>
+  <img src="https://img.shields.io/badge/-Zustand-000000?logo=zustand&logoColor=white&style=for-the-badge" alt="Zustand" />
+  <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/-Recoil-3578E5?logo=react&logoColor=white&style=for-the-badge" alt="Recoil"/>
+  <img src="https://img.shields.io/badge/-JWT-408080?logo=jsonwebtokens&logoColor=white&style=for-the-badge" alt="JWT" />
+  <img src="https://img.shields.io/badge/-zod-FFFFFF?logo=zod&logoColor=blue&style=for-the-badge" alt="Zod" />
+  <img src="https://img.shields.io/badge/-Next.js-010101?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js" />
+  <br>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-Prisma-00008B?logo=prisma&logoColor=white&style=for-the-badge" alt="Prisma" />
+  <img src="https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=for-the-badge" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/-CloudFlare-FFFFFF?logo=cloudflare&logoColor=orange&style=for-the-badge" alt="CloudFlare" />
+  <img src="https://img.shields.io/badge/-Hono-FF8C00?logo=hono&logoColor=white&style=for-the-badge" alt="Hono" />
+  <br>
+  <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" />
+  <img src="https://img.shields.io/badge/-Nestjs-FFFFFF?logo=nestjs&logoColor=red&style=for-the-badge" alt="Nestjs" />
+  <img src="https://img.shields.io/badge/-passport.js-3B3B3B?logo=passport&logoColor=green&style=for-the-badge" alt="Passportjs" />
+  <img src="https://img.shields.io/badge/-clerk-D3D3D3?logo=clerk&logoColor=purple&style=for-the-badge" alt="clerk" />
+  <img src="https://img.shields.io/badge/-inngest-800080?logo=inngest&logoColor=white&style=for-the-badge" alt="inngest" />
+  <img src="https://img.shields.io/badge/-shadcnui-000000?logo=shadcnui&logoColor=white&style=for-the-badge" alt="shadcnui" />
+  <br>
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" alt="NextAuth" />
+  <img src="https://img.shields.io/badge/-Material--UI-FFFFFF?logo=mui&logoColor=blue&style=for-the-badge" alt="Material-UI" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
+  <br>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+  <img src="https://img.shields.io/badge/Turborepo-6E00FF?logo=turborepo&logoColor=white&style=for-the-badge" alt="Turborepo" />
+  <img src="https://img.shields.io/badge/-Flask-0C71E0?logo=flask&logoColor=white&style=for-the-badge" alt="Flask" />
+  <img src="https://img.shields.io/badge/FastAPI-FFFFFF?logo=fastapi&logoColor=green&style=for-the-badge" alt="FastAPI" />
+
+</p>
+<br>
+<h1 align='center'> Reach me </h1>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/anant-kr-sharma-341793273"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedIn&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://x.com/anantXdev"><img src="https://img.shields.io/badge/-X%20(Twitter)-000000?logo=x&logoColor=white&style=for-the-badge" alt="X (Twitter)" /></a>
+  <a href="mailto:anantkrsharma.work@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" /></a>
+</p>
+<br>
+<h1 align='center'>GitHub Stats</h1>
+<p align='center'>
+  <a href="https://github.com/anantkrsharma">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://streak-stats.demolab.com/?user=anantkrsharma&amp;theme=github-dark-blue&amp;hide_border=true" />
+      <img
+        src="https://streak-stats.demolab.com/?user=anantkrsharma&amp;theme=default&amp;hide_border=true"
+        width="495"
+        alt="Anant Kr Sharma's total GitHub contributions since joining, current streak, and longest streak" />
+    </picture>
+  </a>
+</p>
+<p align='center'>
+  <a href="https://github.com/anantkrsharma?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+        srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anantkrsharma&amp;theme=github_dark" />
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anantkrsharma&amp;theme=github"
+        width="300"
+        alt="Language distribution by primary language of Anant Kr Sharma's public repositories" />
+    </picture>
+  </a>
+</p>
